@@ -1,3 +1,11 @@
+# Ungulate movement model
+
+Forked from https://github.com/TuskMod/ASFRA, based on SQUEALR: https://github.com/TuskMod/SQUEALR
+
+Extending the SQUEAL framework to general ungulate movement model with applications in other emerging diseases.
+
+-----------------------------------------------------
+
 # African Swine Fever virus Risk Assessment (ASFRA)
 
 Based on SQUEALR: https://github.com/TuskMod/SQUEALR
